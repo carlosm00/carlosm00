@@ -1,6 +1,6 @@
 ### Hi, I am Carlos Mena (carlosm00) 👋
 
-I am a young man that loves to learn anything possible. With a background in system and network administration, embedded systems and programming/scripting. Highly motivated by new experiences and challenges, I am not afraid to experiment with technologies I have not worked with before.
+I am a young man that loves learning anything possible. Former education in system and network administration, embedded systems and programming/scripting. Highly motivated by new experiences and challenges; I am not afraid to experiment with technologies I have not worked with before.
 
   🔭 I’m currently working on Ingram Micro as a Cloud Infrastructure Engineer.
 
