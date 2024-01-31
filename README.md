@@ -2,7 +2,7 @@
 
 I am a young man that loves learning anything possible. Former education in system and network administration, embedded systems and programming/scripting. Highly motivated by new experiences and challenges; I am not afraid to experiment with technologies I have not worked with before.
 
-  🔭 I’m currently working on Ingram Micro as a Cloud Infrastructure Engineer.
+  🔭 I’m currently working at Ingram Micro as a Cloud Infrastructure Engineer.
 
   👯 I’m looking to collaborate on Open Source projects.
 
