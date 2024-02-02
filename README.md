@@ -6,9 +6,13 @@ I am a young man that loves learning anything possible. Former education in syst
 
   👯 I’m looking to collaborate on Open Source projects.
 
-  ⚡ Currently contributing to [Spanish Python Documentation](https://github.com/python/python-docs-es) :snake:
+  :snake: Currently contributing to [Spanish Python Documentation](https://github.com/python/python-docs-es).
 
-  :floppy_disk: Currently learning Golang
+  ![Godot logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/25px-Godot_icon.svg.png) Trying to contribute to Godot community and currently learning Game dev with [Godot Engine](https://github.com/godotengine/godot).
+
+  :floppy_disk: Currently learning Golang.
+
+  :star: Security, music and art passionate.
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-carlosmena00-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosmena00//)](https://www.linkedin.com/in/carlosmena00/)
 
